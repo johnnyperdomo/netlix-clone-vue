@@ -18,10 +18,10 @@
                     <h4 class="text-muted">New Releases</h4>
 
                     <!-- title -->
-                    <h1 class="text-white">{{ movies[1].movies[3].title }}</h1>
+                    <h1 class="text-white">{{ movies[0].movies[0].title }}</h1>
 
                     <!-- overview -->
-                    <p class="col-10 text-white mt-4">{{ movies[1].movies[3].overview }}</p>
+                    <p class="col-10 text-white mt-4">{{ movies[0].movies[0].overview }}</p>
 
                     <!-- action buttons -->
 
@@ -35,7 +35,7 @@
                 <div class="col-12 col-sm-6">
                     <div class="col-2 mx-auto">
                         <img
-                            v-bind:src="movies[1].movies[3].image"
+                            v-bind:src="movies[0].movies[0].image"
                             alt=""
                             class="rounded shadow"
                             height="300"
