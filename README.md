@@ -1,24 +1,18 @@
-# netflix-clone-vlue
+# Netflix clone written in Vue.js
 
-## Project setup
-```
-npm install
-```
+## Preview
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![Alt Text](https://github.com/johnnyperdomo/netlix-clone-vue/blob/main/src/assets/netflix-preview.gif)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+**Built with**
+- Vue.js 2
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Features
+- **Get list of movies from [Movie Database API](https://developers.themoviedb.org/4/getting-started/)**
+- **Loop through list of movies, sort and display by genre**
+- **Horizontal sliders for movie genre containers**
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Installation
+```
+  npm run serve
+  ```
