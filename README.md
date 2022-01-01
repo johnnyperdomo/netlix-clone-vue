@@ -1,5 +1,7 @@
 # Netflix clone written in Vue.js
 
+[View Live Preview 🌎](https://netlix-clone-vue.vercel.app/)
+
 ## Preview
 
 ![Alt Text](https://github.com/johnnyperdomo/netlix-clone-vue/blob/main/src/assets/netflix-preview.gif)
